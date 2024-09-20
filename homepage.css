@@ -1,0 +1,82 @@
+*{
+    padding:0px;
+    margin:0px;
+    background-color: #9db4c0;
+}
+
+.navbar{
+    height:70px;
+    width:100%;
+    background-color: #253237;
+    position: sticky;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left{
+    height:60px;
+    width:110px;
+    margin-left:10px;
+}
+
+.right{
+    height:60px;
+    background-color: #253237;
+    width:900px;
+    display:flex;
+    justify-content: flex-end;
+    margin-right:95px;
+}
+
+.homepage{
+    height:60px;
+    width:110px;
+    background-color: #9db4c0;
+    margin-right: 55px;
+    font-size: 20px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border:0px solid transparent;
+    border-radius: 10px;;
+}
+
+.login{
+    height:60px;
+    width:110px;
+    background-color: #9db4c0;
+    margin-right:55px;
+    border:0px solid transparent;
+    border-radius: 10px;;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+}
+
+.signup{
+    height:60px;
+    width:110px;
+    background-color: #9db4c0;
+    margin-right:55px;
+    border:0px solid transparent;
+    border-radius: 10px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+}
+
+.nav-menu{
+    height:60px;
+    width:60px;
+    background-color: #9db4c0;
+    margin-right:0px;
+    border:0px solid transparent;
+    border-radius: 10px;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+}
