@@ -8,7 +8,7 @@
 
 ## 🛠 Tech Stack  
 - **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Java Spring Boot, REST APIs  
+- **Backend:** Java Spring Boot, REST APIs, Python
 - **Databases:** MySQL  
 - **Other:** Git, GitHub, Agile, JFrame, Swing  
 
